@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Logs
+*.log
+
+# Env and editor
+.env*
+.DS_Store
+.vscode/
+
+# Accidental nested folder
+proyecto/
